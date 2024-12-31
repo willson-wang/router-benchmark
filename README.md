@@ -37,6 +37,7 @@ node src/index.js 1000 bun true
 ```
 
 结果如下所示
+
 ![Alt text](./images/image.png)
 
 
